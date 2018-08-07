@@ -1,4 +1,3 @@
-WScript.Quit 0
 on error resume next
 set t=createobject("Wscript.Shell")
 set kill = createobject("wscript.shell")
